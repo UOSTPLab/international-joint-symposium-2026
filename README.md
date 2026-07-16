@@ -1,8 +1,12 @@
 # The International Joint Symposium & Workshop on Transit-Oriented Development 2026
 
-August 2–12, 2026<img width="5100" height="6600" alt="Announcement   Call for Participation  The International Joint Symposium   Workshop on TOD_260716_1" src="https://github.com/user-attachments/assets/42400ec5-4215-49e3-a762-a96133ada9de" />
+August 2–12, 2026
   
 University of Seoul, Seoul, Korea
+
+
+![Uploading TOD_2026_cover.png.jpg…]()
+
 
 ---
 
