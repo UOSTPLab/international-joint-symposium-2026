@@ -106,49 +106,40 @@ The following pages present the official call for participation, lecture informa
 
 <div align="center">
 
-### Page 2
 
 <img src="page_02.jpg" alt="Official announcement page 2" width="820">
 
 <br><br>
 
-### Page 3
-
 <img src="page_03.jpg" alt="Tentative program page 3" width="820">
 
 <br><br>
 
-### Page 4
 
 <img src="page_04.jpg" alt="Tentative program page 4" width="820">
 
 <br><br>
 
-### Page 5
 
 <img src="page_05.jpg" alt="Tentative program page 5" width="820">
 
 <br><br>
 
-### Page 6
 
 <img src="page_06.jpg" alt="Final presentation and enquiries page 6" width="820">
 
 <br><br>
 
-### Page 7
 
 <img src="page_07.jpg" alt="Speaker attendee list page 7" width="820">
 
 <br><br>
 
-### Page 8
 
 <img src="page_08.jpg" alt="Student attendee list page 8" width="820">
 
 <br><br>
 
-### Page 9
 
 <img src="page_09.jpg" alt="On-campus dormitory information page 9" width="820">
 
